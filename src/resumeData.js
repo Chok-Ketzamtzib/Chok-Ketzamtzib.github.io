@@ -113,8 +113,9 @@ let resumeData = {
       imgurl: "images/portfolio/tennis-ball.jpg"
     },
     {
-      name: "react-portfolio",
-      description: "This site =)",
+      name: "Water Crusader Project",
+      description:
+        "Won 1st place HackMIT, 2nd Place Social Good Track, and won $2000 from IBM",
       imgurl: "images/portfolio/console.jpg"
     }
   ],
